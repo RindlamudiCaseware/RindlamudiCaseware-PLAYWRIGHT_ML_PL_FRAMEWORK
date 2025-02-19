@@ -1,0 +1,22 @@
+{
+    "adminCredentials": {
+        "username": "gl-admin@email.com",
+        "password": "Test1234!"
+    },
+    "learnerCredentials": {
+        "username": "gl-learner@email.com",
+        "password": "Test1234!"
+    },
+    "fullManagerCredentials": {
+        "username": "gl-full-manager@email.com",
+        "password": "Test1234!"
+    },
+    "basicManagerCredentials": {
+        "username": "gl-basic-manager@email.com",
+        "password": "Test1234!"
+    },
+    "limitedManagerCredentials": {
+        "username": "gl-limited-manager@email.com",
+        "password": "Test1234!"
+    }
+}

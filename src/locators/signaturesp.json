@@ -1,0 +1,62 @@
+[
+   
+      {
+        "originalSelector": "username",
+        "tagName": "input",
+        "id": "Username",
+        "classList": [
+          "psds-text-input__field",
+          "psds-text-input__field--appearance-subtle"
+        ],
+        "textTokens": [],
+        "type": "text",
+        "placeholder": null,
+        "alt": null,
+        "title": null,
+        "dataTestId": null,
+        "ariaLabel": null,
+        "role": null,
+        "value": ""
+      },
+      {
+        "originalSelector": "password",
+        "tagName": "input",
+        "id": "Password",
+        "classList": [
+          "psds-text-input__field",
+          "psds-text-input__field--appearance-subtle"
+        ],
+        "textTokens": [],
+        "type": "password",
+        "placeholder": null,
+        "alt": null,
+        "title": null,
+        "dataTestId": null,
+        "ariaLabel": null,
+        "role": null,
+        "value": null
+      },
+      {
+        "originalSelector": "loginbutton",
+        "tagName": "button",
+        "id": "login",
+        "classList": [
+          "psds-button--appearance-primary",
+          "psds-theme--dark",
+          "psds-button",
+          "psds-button--size-medium"
+        ],
+        "textTokens": [
+          "Sign",
+          "in"
+        ],
+        "type": "submit",
+        "placeholder": null,
+        "alt": null,
+        "title": null,
+        "dataTestId": null,
+        "ariaLabel": null,
+        "role": null,
+        "value": null
+      }
+]

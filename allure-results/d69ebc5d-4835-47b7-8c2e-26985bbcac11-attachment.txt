@@ -1,0 +1,7 @@
+[INFO] Found element using primary selector "#user-name"
+[INFO] Attempting ML fallback with signature key "password"...
+[INFO] Self-healing success for key 'password': similarity = 0.80
+[INFO] Trying getByPlaceholder('Password')
+[INFO] Attempting ML fallback with signature key "loginbutton"...
+[INFO] Self-healing success for key 'loginbutton': similarity = 0.90
+[INFO] Heuristic: input[type=submit] with value "Login" => getByRole('button', { name: "Login" })

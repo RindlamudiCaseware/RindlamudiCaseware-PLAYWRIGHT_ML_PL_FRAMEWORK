@@ -1,0 +1,25 @@
+[INFO] Navigating to path: /
+[INFO] Attempting ML fallback with signature key "username"...
+[INFO] Self-healing success for key 'username': similarity = 0.80
+[INFO] Trying getByPlaceholder('Username')
+[INFO] Attempting ML fallback with signature key "password"...
+[INFO] Self-healing success for key 'password': similarity = 0.80
+[INFO] Trying getByPlaceholder('Password')
+[INFO] Attempting ML fallback with signature key "loginbutton"...
+[INFO] Self-healing success for key 'loginbutton': similarity = 0.90
+[INFO] Heuristic: input[type=submit] with value "Login" => getByRole('button', { name: "Login" })
+[INFO] Found element using primary selector "button[name="add-to-cart-sauce-labs-backpack"]"
+[INFO] Found element using primary selector ".shopping_cart_link"
+[INFO] Found element using primary selector "#checkout"
+[INFO] Attempting ML fallback with signature key "firstname"...
+[INFO] Self-healing success for key 'firstname': similarity = 0.77
+[INFO] Trying getByPlaceholder('First Name')
+[INFO] Attempting ML fallback with signature key "lastname"...
+[INFO] Self-healing success for key 'lastname': similarity = 0.75
+[INFO] Trying getByPlaceholder('Last Name')
+[INFO] Attempting ML fallback with signature key "postalCode"...
+[INFO] Self-healing success for key 'postalCode': similarity = 0.79
+[INFO] Trying getByPlaceholder('Zip/Postal Code')
+[INFO] Found element using primary selector "#continue"
+[INFO] Found element using primary selector "#finish"
+[INFO] Found element using primary selector ".complete-header"

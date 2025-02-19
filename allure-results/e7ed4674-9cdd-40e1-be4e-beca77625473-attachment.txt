@@ -1,0 +1,12 @@
+[WARN] Primary selector "#user-nam" failed. Error: TimeoutError: page.waitForSelector: Timeout 4000ms exceeded.
+Call log:
+  - waiting for locator('#user-nam') to be visible
+
+[WARN] Primary selector "#passwor" failed. Error: TimeoutError: page.waitForSelector: Timeout 4000ms exceeded.
+Call log:
+  - waiting for locator('#passwor') to be visible
+
+[WARN] Primary selector "#login-butto" failed. Error: TimeoutError: page.waitForSelector: Timeout 4000ms exceeded.
+Call log:
+  - waiting for locator('#login-butto') to be visible
+
