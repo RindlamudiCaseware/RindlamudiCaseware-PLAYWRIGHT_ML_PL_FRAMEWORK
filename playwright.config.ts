@@ -18,7 +18,7 @@ export default defineConfig({
     trace: 'off',
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
-    headless: true,
+    headless: false,
     // baseURL: 'https://app-stage.pluralsight.com/'
      baseURL: 'https://www.saucedemo.com/'
   },
